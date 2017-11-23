@@ -7,5 +7,8 @@ The app will not run with given files as there is no DB that it can connect to, 
 
 This is to showcase how I code.
 
+## Note
+This is still work in progress as I am still learning new stuff and best practices.
+
 ## Contact
 Anyone interested in contacting me please get in touch with me on kava.jan@gmail.com
